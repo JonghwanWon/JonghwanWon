@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-<img alt="Jonghwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonghwanWon&show_icons=true&hide_border=true&hide_title=true" /><img alt="Jonghwan's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JonghwanWon&hide_border=true&hide_title=true" />
+<img alt="Jonghwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonghwanWon&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" /><img alt="Jonghwan's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JonghwanWon&hide_border=true&hide_title=true" />
 
 ---
 
