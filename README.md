@@ -9,7 +9,7 @@
 ## About Me!
 
 - 👨🏽‍💻 I’m currently working on Front-end Web Development.
-- 🌱 i'm currently learning **MERN** Stack Development.
+- 🌱 i'm currently learning **MERN** Stack.
 - 📝 I have a strong interest in UI/UX and interaction for users.
 - 💬 Ask me about anything, I love to answer!
 - 📮 Email me at [jh.wwwon@daum.net](mailto:jh.wwwon@daum.net)
@@ -63,10 +63,12 @@
       <img src="https://github-profile-trophy.vercel.app/?username=JonghwanWon&theme=oldie&column=3&margin-w=8&margin-h=4&no-frame=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonghwanWon&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonghwanWon&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
+
+<img alt="Jonghwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonghwanWon&show_icons=true&hide_border=true&hide_title=true" /><img alt="Jonghwan's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JonghwanWon&hide_border=true&hide_title=true" />
 
 ---
 
