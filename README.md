@@ -47,7 +47,7 @@
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white" />
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white"/>
-  <img alt="Affinity" src="https://img.shields.io/badge/Affinity-222324?logo=adobe&logoColor=white"/>
+  <img alt="Affinity" src="https://img.shields.io/badge/Affinity-222324?logo=Affinity&logoColor=white"/>
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white"/>
   <img alt="Rhinoceros" src="https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=white"/>
   <img alt="Sketch" src="https://img.shields.io/badge/Sketch-F7B500?logo=Sketch&logoColor=white" />
