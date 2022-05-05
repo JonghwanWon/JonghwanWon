@@ -15,7 +15,7 @@ I’m a industrious self-learner who always to be better than yesterday.
 - 🌱 I’m currently learning **MERN** stack.
 - 📝 I have a strong interest in UI/UX and interaction for users.
 - 💬 Ask me about anything, I love to answer!
-- 📮 Email me at [jh.wwwon@daum.net](mailto:jh.wwwon@daum.net)
+- 📮 Email me at [jh.wwwon@gmail.com](mailto:jh.wwwon@gmail.com)
 
 ## Languages and My Favorite Tools 🛠 
 
