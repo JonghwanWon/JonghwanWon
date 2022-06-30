@@ -5,15 +5,15 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=808080&lines=Learn%2C+learn!"></a>
 
-I’m a industrious self-learner who always to be better than yesterday.
+I’m a industrious self-learner who always tries to be better than yesterday.
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 ## About Me!
 
 - 👨🏽‍💻 I’m currently working as a front-end developer.
-- 🌱 I’m currently learning **MERN** stack.
-- 📝 I have a strong interest in UI/UX and interaction for users.
+- 🌱 I’m currently learning **TypeScript**.
+- 📝 I have a strong interest in UX and interaction for users.
 - 💬 Ask me about anything, I love to answer!
 - 📮 Email me at [jh.wwwon@gmail.com](mailto:jh.wwwon@gmail.com)
 
