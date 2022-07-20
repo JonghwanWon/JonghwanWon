@@ -22,8 +22,8 @@ I’m a industrious self-learner who always tries to be better than yesterday.
 **👨‍💻 Programming Languages**
 
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white" />
@@ -45,15 +45,7 @@ I’m a industrious self-learner who always tries to be better than yesterday.
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/Github-181717?logo=GitHub&logoColor=white" />
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white" />
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white"/>
-  <img alt="Affinity" src="https://img.shields.io/badge/Affinity-222324?logo=Affinity&logoColor=white"/>
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white"/>
-  <img alt="Rhinoceros" src="https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=white"/>
-  <img alt="Sketch" src="https://img.shields.io/badge/Sketch-F7B500?logo=Sketch&logoColor=white" />
-  <img alt="InVision" src="https://img.shields.io/badge/InVision-FF3366?logo=InVision&logoColor=white" />
   <img alt="JiraSoftware" src="https://img.shields.io/badge/JiraSoftware-0052CC?logo=JiraSoftware&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white" />
 </p>
