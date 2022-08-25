@@ -9,6 +9,16 @@ I’m a industrious self-learner who always tries to be better than yesterday.
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
+## About side project working on 🔥
+
+### MOCA
+> Artificial intelligence copywriter to improve business.
+
+coming soon!
+
+### [letspl](https://letspl.me/)
+> Side project for those looking for side projects.
+
 ## About Me!
 
 - 👨🏽‍💻 I’m currently working as a front-end developer.
