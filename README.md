@@ -16,7 +16,7 @@ I’m a industrious self-learner who always tries to be better than yesterday.
 
 coming soon!
 
-### <a href="https://letspl.me/" target="_blank">letspl</a>
+### [letspl](https://letspl.me/)
 > Side project for those looking for side projects.
 
 
