@@ -62,21 +62,6 @@ coming soon!
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white" />
 </p>
 
-## My Github stats
-
-<table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=JonghwanWon&theme=oldie&column=3&margin-w=8&margin-h=4&no-frame=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonghwanWon&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<img width="50%" alt="Jonghwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JonghwanWon&show_icons=true&hide_border=true&hide_title=true" /><img width="50%" alt="Jonghwan's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JonghwanWon&hide_border=true&hide_title=true" />
-
 ---
 
 <p align="center">Thanks for watching my profile!</p>
